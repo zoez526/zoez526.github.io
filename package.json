@@ -1,0 +1,19 @@
+{
+  "name": "zoez526.github.io",
+  "version": "1.0.0",
+  "description": "\"personal playground\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoez526/zoez526.github.io.git"
+  },
+  "author": "zoez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoez526/zoez526.github.io/issues"
+  },
+  "homepage": "https://github.com/zoez526/zoez526.github.io#readme"
+}
